@@ -2,6 +2,9 @@
 
 ---
 
-Explica a continación cada apartado del examen
+**Explica a continación cada apartado del examen**
 
-Con cada apartado realiza un commit diferente
+**Con cada apartado realiza un commit diferente**
+
+---
+
