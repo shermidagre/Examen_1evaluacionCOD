@@ -46,3 +46,8 @@
 
 ---
 
+### 4.Realiza el javadoc de estas funciones
+
+   **El javadoc de estas funciones se encuentra en su carpeta respectiva**
+
+
