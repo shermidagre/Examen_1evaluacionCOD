@@ -8,4 +8,4 @@
 
 ---
 
-![[Ex1COD.drawio](../Descargas/Ex1COD.drawio)
+![Ex1COD.drawio](../Descargas/Ex1COD.drawio)
